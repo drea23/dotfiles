@@ -1,16 +1,29 @@
 {
-  "installed_packages":
-  [
-    "AdvancedNewFile",
-    "All Autocomplete",
-    "ApplySyntax",
-    "BracketHighlighter",
-    "Emmet",
-    "Git",
-    "GitGutter",
-    "JSX",
-    "Package Control",
-    "SCSS",
-    "ERB Snippets"
-  ]
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"3D Tool (Async Burst-Mode)",
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"ApplySyntax",
+		"Autoprefixer",
+		"Bootstrap 3 Snippets",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"Emmet",
+		"Emmet Css Snippets",
+		"Emmet Style Reflector",
+		"EmmetOneLine",
+		"ERB Snippets",
+		"Git",
+		"GitGutter",
+		"HTMLBeautify",
+		"JSX",
+		"Package Control",
+		"SCSS"
+	]
 }
